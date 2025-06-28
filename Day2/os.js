@@ -1,3 +1,3 @@
-const os = require('os')
+const os = require("os");
 
-console.log(os.uptime())
+console.log(os.uptime());
